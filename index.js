@@ -8,7 +8,6 @@ const element =
       />
       <img
         className="second-image"
-        
         src="https://assets.ccbp.in/frontend/react-js/csk-img.png"
       />
     </div>
